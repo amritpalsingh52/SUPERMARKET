@@ -1,0 +1,4 @@
+ 5 momo 80 2
+ 2 han 50 2
+ 0 mango 50 3 
+ 4 butter 35 0
