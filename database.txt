@@ -1,4 +1,6 @@
- 5 momo 80 2
- 2 han 50 2
- 0 mango 50 3 
- 4 butter 35 0
+ 1 sugar 80 2
+ 2 tea 50 2
+ 3 mango 50 3 
+ 4 butter 35 0 
+ 5 orange 60 5
+ 6 oil  50 2
